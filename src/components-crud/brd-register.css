@@ -1,0 +1,83 @@
+.brd-register-sec {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 40px 0px;
+}
+
+.brd-register-main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.brd-register-main {
+    width: 90%;
+}
+
+.brd-reg-txt h1 {
+    font-size: 20px;
+    padding: 20px;
+}
+
+.brd-reg-form h2 {
+    font-size: 17px;
+    padding: 20px 0px;
+}
+
+.brd-reg-form input {
+    padding: 8px;
+    border-radius: 8px;
+    color: rgb(250, 192, 250);
+    background-color: rgba(33, 29, 37, 0.788);
+}
+
+.brd-reg-form {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr;
+    margin: 20px 25px;
+}
+
+.brd-btn-reg {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: 20px 0px;
+}
+
+.btn-simple {
+    color: rgb(213, 167, 255);
+    background-color: rgb(8, 8, 8);
+    margin: 0px 5px;
+}
+
+.btn-simple-cancel {
+    color: rgb(245, 245, 245);
+    background-color: rgb(124, 40, 40);
+    margin: 0px 5px;
+}
+
+
+
+
+.brd-reg-txt p {
+    padding: 0px 20px 20px 20px;
+    color: rgb(184, 178, 185);
+}
+
+.brd-reg-txt {
+    border: rgba(59, 44, 75, 0.856) 1px solid;
+    border-radius: 12px;
+    margin: 20px 0px;
+    width: 100%;
+}
+
+@media (max-width: 772px) {
+    .brd-reg-form {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+}

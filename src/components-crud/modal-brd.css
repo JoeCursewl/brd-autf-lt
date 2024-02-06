@@ -1,0 +1,27 @@
+.brd-input-choto {
+    background-color: rgb(18, 10, 19);
+    padding: 8px 8px;
+    border-radius: 5px;
+}
+
+.sp-all-de p {
+    color: rgb(255, 255, 255);
+}
+
+.dv-all-err {
+    width: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    background-image: linear-gradient(to right, rgba(25, 5, 27, 0.5), rgb(13, 13, 13, 0.5), rgba(24, 13, 26, 0.5),rgb(13, 13, 13, 0.5), rgba(18, 12, 34, 0.5), rgb(13, 13, 13, 0.5));
+    border-radius: 12px;
+    color: rgb(209, 54, 54);
+    padding: 10px 15px;
+    margin: 10px 0px;
+    border: rgb(106, 71, 134) 0.5px solid;
+}
+
+.np-all-me {
+    color: rgb(184, 107, 255);
+}

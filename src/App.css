@@ -1,0 +1,32 @@
+.brd-nv-mn {
+    box-shadow: 0 0 12px 0 rgb(75, 75, 75);
+}
+
+.brd-nv-mn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.brd-nv-img {
+    width: 102px;
+}
+
+.brd-nv-lts ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.brd-nv-all-cn {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 20px 10px 20px 10px;
+}
+
+.brd-nv-lts ul li {
+    margin: 0px 10px;
+}

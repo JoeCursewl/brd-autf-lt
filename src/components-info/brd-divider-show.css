@@ -1,0 +1,45 @@
+.divi-all-sec {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 0px;
+    color: rgb(194, 161, 221);
+}
+
+.divi-info-all {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    padding: 15px;
+    border: rgb(50, 35, 56) 1px solid;
+    border-radius: 10px;
+    flex-direction: column;
+}
+
+.divi-sin-el p {
+    padding: 5px 0px;
+}
+
+.brd-file-logo img {
+    width: 45px;
+}
+
+.brd-file-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.divi-sin-el-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+    align-items: center;
+    width: 100%;
+    margin: 20px 0px;
+}
+
+
