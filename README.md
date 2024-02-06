@@ -1,7 +1,7 @@
 
 # BRD | CRUD Ejemplo para registro de derechos de autor.
 ``` 
-  Primero commit hecho en el proyecto, agregadas todas las operaciones crud.
+  Primer commit hecho en el proyecto, agregadas todas las operaciones crud.
 ```
 =======
 
