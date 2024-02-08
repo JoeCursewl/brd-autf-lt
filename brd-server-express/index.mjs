@@ -9,10 +9,10 @@ app.use(express.json());
 
 
 const brd_db = mysql.createConnection({
-    host: "localhost",
-    user: "root",
+    host: "adress",
+    user: "user",
     password: "",
-    database: "brd_sng_lt"
+    database: "database_name"
 });
 
 const bd_port = 3001;
